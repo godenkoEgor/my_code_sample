@@ -13,3 +13,5 @@ Here are some examples of my code in C++ and Python. <br />
 **Python:** <br />
 
 1. File "MapPlotter.py". Script for plotting 2D map distribution. See documentation for details. <br />
+
+2. File "lru_cache.py". Implementation of Least Recently Used (LRU) cache in Python. <br />
