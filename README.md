@@ -8,4 +8,4 @@ C++: <br />
 
 2. File "fixed_set.h". Implementation of storage for integer numbers. Complexity of initializing is *O(n)*, memory usage is *O(n)*, complexity of lookup is *O(1)*, where *n* is the quantity of integer numbers in the storage. <br />
 
-3. File "grid_polarity.h". This is one of the header files from my Monte-Carlo project for simulation of the interstellar dust trajectories. This file contains the implementaion of polarity grid for the calculation of magnetic field polarity in the inner heliosheath. The explanatory comments for methods and functions are in the file.
+3. File "grid_polarity.h". This is one of the header files from my Monte-Carlo project for simulation of the interstellar dust trajectories. This file contains interface of the polarity grid for the calculation of magnetic field polarity in the inner heliosheath. The explanatory comments for methods and functions are in the file.
