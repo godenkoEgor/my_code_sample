@@ -2,7 +2,6 @@
 
 Here are some examples of my code in C++ and Python. <br />
 
-t
 C++: <br />
 
 1. File "merge_sequences.cpp". Implementation of function which merges *n* sorted array of integer numbers into one array. The length of each array is *m*. Complexity of algorithm is *O(nmlog(n))*, memory usage is *O(mn)*. <br />
