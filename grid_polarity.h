@@ -86,7 +86,7 @@ private:
 // Complete the cell with parameters.
     void completeCell(Pack finish, size_t idx);
 
-// Get finish point by runge-kutta back integration.
+// Get finish point by Runge-Kutta back integration.
     Pack getFinishPoint(GridPlasma &grid_plasma, size_t idx);
 };
 
@@ -94,7 +94,7 @@ private:
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
-// Function for calculation of polarity at the sphere with radius 1 AU.
+// Function for calculation of polarity at the sphere with radius "BACK_RADIUS".
 double DeterminePolarity(double t, Point p, TransitionMatrix transition_matrix);
 
 // Function for checking: is point inside the heliosphere? (Point is in dimensionless form)
